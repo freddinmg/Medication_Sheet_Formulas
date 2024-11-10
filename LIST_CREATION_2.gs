@@ -13,4 +13,4 @@
 "If another row is also ticked, it'll read like this:"
 "❤️‍🩹Off-white, round-shaped, small-ish sized pill with imprint of 'L015'
 
-❤️‍🩹Pink, round-shaped, small-ish sized pill with imprint of '188'"
+❤️‍🩹Pink, round-shaped, small-ish sized pill with imprint of '188'" 
